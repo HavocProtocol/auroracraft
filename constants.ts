@@ -1,9 +1,9 @@
 import { Rank } from './types';
 
-export const SERVER_IP = "astrochillzone.playghosting.com";
-export const DISCORD_LINK = "https://discord.gg/hbyU6Hwyfq";
+export const SERVER_IP = "auroracraft.playghosting.com";
+export const DISCORD_LINK = "https://discord.gg/aF6GYxj68x";
 // The webhook URL allows the website to send transaction screenshots to your Discord channel.
-export const DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1466897082400116747/OQQZvr6TbQc_VgmK_qWoMc33YexYJeKBqWE_EvqoxOiBhqIf3vXnOrpSi0F13CSAum0F"; 
+export const DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1467915979819319307/spWqPB2Rt4v6JhkZWvY0CmDvebMXNYpLvlJJOTc-lzvMv-D6bNJhN8dwPotDyDIpJJab"; 
 
 export const RANKS: Rank[] = [
   {
